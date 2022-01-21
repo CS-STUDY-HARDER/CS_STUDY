@@ -1,5 +1,5 @@
 # DNS
----
+
 ## DHCP 서비스와 DNS 서비스 그리고 물리적 주소의 의미
 
 ![ipconfig-all](images/ipconfig-all.png "ipconfig/all")
